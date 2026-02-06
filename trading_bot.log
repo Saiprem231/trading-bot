@@ -1,0 +1,20 @@
+2026-02-06 13:39:57,780 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 13:39:57,849 | ERROR | Order Failed: API keys not found. Set BINANCE_API_KEY and BINANCE_API_SECRET.
+2026-02-06 13:52:26,027 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 13:52:26,030 | ERROR | Order Failed: API keys not found. Set BINANCE_API_KEY and BINANCE_API_SECRET.
+2026-02-06 13:53:51,704 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 13:53:51,704 | ERROR | Order Failed: API keys not found. Set BINANCE_API_KEY and BINANCE_API_SECRET.
+2026-02-06 13:55:44,851 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 13:55:44,853 | ERROR | Order Failed: API keys not found. Set BINANCE_API_KEY and BINANCE_API_SECRET.
+2026-02-06 14:05:26,299 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 14:05:44,123 | INFO | Market Order Response: {}
+2026-02-06 14:05:44,270 | INFO | Order Success Response: {}
+2026-02-06 14:16:25,248 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 14:16:27,234 | INFO | Market Order Response: {}
+2026-02-06 14:16:27,250 | INFO | Order Success Response: {}
+2026-02-06 15:03:11,965 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'price': None}
+2026-02-06 15:03:18,496 | INFO | Market Order Response: {}
+2026-02-06 15:03:18,929 | INFO | Order Success Response: {}
+2026-02-06 20:03:25,120 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': '0.001', 'price': '30000'}
+2026-02-06 20:03:29,777 | INFO | Limit Order Response: {}
+2026-02-06 20:03:29,811 | INFO | Order Success Response: {}
